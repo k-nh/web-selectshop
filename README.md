@@ -2,7 +2,7 @@
 
 
 ### 개발 기술
-**Java, SpringBoot, JPA , MySQL, H2DB, HTML/CSS, JavaScripts**
+**Java, SpringBoot, JPA , MySQL, HTML/CSS, JavaScripts**
 
 ### 구현기능
 
