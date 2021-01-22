@@ -1,4 +1,8 @@
-# web-selectshop
+# selectshop
+
+
+### 개발 기술
+**Java, SpringBoot, JPA , MySQL, H2DB, HTML/CSS, JavaScripts**
 
 ### 구현기능
 
